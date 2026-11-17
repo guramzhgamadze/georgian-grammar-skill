@@ -1,6 +1,6 @@
 ---
 name: georgian-grammar
-description: A semantic and grammatical analysis framework for Georgian (ქართული) — who-does-what-to-whom role assignment, how case marking shifts with the tense series (nominative, ergative or dative subjects; -თვის objects), verb decomposition (person markers, causatives, preverbs, tense/mood/aspect, არ/ვერ/ნუ negation), word order and focus, pro-drop recovery, reported-speech particles, idioms, and a catalog of the specific mistakes AI systems make on Georgian with corrected readings. Use this whenever translating to or from Georgian, explaining or analyzing a Georgian verb form or sentence, or checking Georgian text — your own or someone else's — for dropped, swapped, or invented meaning. It is not a spelling, punctuation, or style guide.
+description: A semantic and grammatical analysis framework for Georgian (ქართული) — who-does-what-to-whom role assignment, how case marking shifts with the tense series (nominative, ergative or dative subjects; -თვის objects), verb decomposition (person markers, causatives, preverbs, tense/mood/aspect, არ/ვერ/ნუ negation), word order and focus, pro-drop recovery, reported-speech particles, idioms, and a catalog of the specific mistakes AI systems make on Georgian with corrected readings. It also covers the main normative rules for writing Georgian (agreement, case and verb forms, reported speech, punctuation, calques), drawn from Avtandil Arabuli's textbook on Georgian speech culture. Use this whenever translating to or from Georgian, writing or correcting Georgian text, explaining or analyzing a Georgian verb form or sentence, or checking Georgian text — your own or someone else's — for dropped, swapped, or invented meaning.
 license: CC-BY-4.0
 ---
 
@@ -20,9 +20,16 @@ as a lens rather than settled fact. Where the source's examples conflict
 with standard Georgian grammar, this skill corrects them; every correction
 and the literature behind it is listed in `references/about-this-source.md`.
 
+The writing norms in `references/writing-norms.md` come from a separate
+source: Avtandil Arabuli (ავთანდილ არაბული), *ქართული მეტყველების
+კულტურა* [Georgian Speech Culture], 2nd ed., Tbilisi: Universali, 2008 —
+restated in this skill's own words, with page references.
+
 ## When to use this skill
 
 - Translating into or out of Georgian
+- Writing or correcting Georgian: agreement, case and verb forms, reported
+  speech and its punctuation, calques (see `references/writing-norms.md`)
 - Checking Georgian you write, or someone else's Georgian, for meaning
   errors (roles, causatives, negation, hedges, reported speech)
 - Explaining how a Georgian sentence or verb form is built
@@ -134,6 +141,15 @@ particles (`-მეთქი` = the speaker's own words, `-ო` = anyone else's 
 what), zero-expression, context recovery, temporal and causal relations
 between clauses.
 
+**Writing norms** (full detail in `references/writing-norms.md`, after
+A. Arabuli, *ქართული მეტყველების კულტურა*, 2008): plural inanimate,
+collective and numeral subjects take a singular verb (`ამბები მოხდა`,
+`ორივემ მოისვენა`); `თავისი` for the subject's own, `მისი` for someone
+else's; `ჩემს მეგობარს` (not `ჩემ მეგობარს`); `-თვის` + genitive; the `ვ-`
+and `ჰ-`/`ს-` person markers; causative `-ინ-`/`-ევინ-`; double negation;
+reported-speech punctuation and particles; calques and the overused
+descriptive passive (`გაანადგურეს` rather than `განადგურებულ იქნა`).
+
 **Idioms and loaded phrases** (full detail in
 `references/idioms-and-register.md`): keep the literal reading and the
 real meaning separate; don't flatten the emotional/social/moral weight a
@@ -176,6 +192,9 @@ input/wrong-output/correct-output triples for each:
 11. For idioms: did I give the real meaning (not a literal reading), while
     checking whether *this* context is one of the cases where the literal
     reading is actually intended?
+12. When writing Georgian: did I check number agreement, `მისი` vs
+    `თავისი`, case forms after possessives and postpositions, accidental
+    vs deliberate verb forms, and calques (`references/writing-norms.md`)?
 
 ## Reference files
 
@@ -189,15 +208,22 @@ input/wrong-output/correct-output triples for each:
   word order and focus, particles, reported speech, zero-expression,
   ambiguity, temporal/causal relations between clauses, two fully worked
   examples
+- `references/writing-norms.md` — normative rules for writing Georgian
+  (agreement, noun phrases, postpositions, proper names, verb forms,
+  negation, reported speech, punctuation, calques, loanwords and
+  numerals), taken from Avtandil Arabuli's *ქართული მეტყველების კულტურა*
+  (2nd ed., 2008) with page references
 - `references/idioms-and-register.md` — framework for idiomatic,
-  metaphorical, and value-laden phrases, plus a working list of examples
+  metaphorical, and value-laden phrases, a working list of examples, and
+  notes on register (functional styles)
 - `references/common-ai-errors.md` — the full error catalog (all 33 named
-  error patterns from the source, under 12 headings, plus three additional
-  checks added in this skill) with concrete corrected examples; treat this
-  as the lookup table when double-checking output
+  error patterns from the source, under 12 headings, plus additional checks
+  and production errors added in this skill) with concrete corrected
+  examples; treat this as the lookup table when double-checking output
 - `references/about-this-source.md` — what this is built from, its pilot
   status and known scope limits, the corrections this skill makes to the
-  source (with the literature behind each), and the required attribution
+  source (with the literature behind each), the additional sources (incl.
+  Arabuli's textbook), and the required attribution
 - `references/source-book-index.md` — map of the original book: every
   part, chapter and specification module with its PDF pages and its line
   range in the text file

@@ -65,6 +65,29 @@ Georgian Language (ქართული ენის განმარტე�
   documented error — figurative language doesn't override context that
   points to a literal reading
 
+## Register (functional styles)
+
+Georgian writing distinguishes functional styles — scientific,
+official-business, publicistic (journalistic) and colloquial — besides the
+language of literature (A. Arabuli, *ქართული მეტყველების კულტურა*, 2008,
+pp. 188 ff.; T. Kavtaradze, N. Kasrashvili, N. Saghinadze, S. Pataridze and
+T. Sabauri, *აკადემიური მუშაობის საფუძვლები*, Ilia State University, 2018,
+ch. 8 by T. Sabauri, pp. 155–157). When writing or translating:
+
+- **Scientific:** terminology; precise, neutral verbs; simple, exact
+  sentences; the present tense for general statements; digits rather than
+  number words; standard abbreviations (Arabuli, p. 206).
+- **Official-business:** field terminology and laconic, precise wording
+  (Kavtaradze et al., p. 157) — but prefer natural passives over the
+  descriptive passive and avoid light-verb calques (Arabuli, pp. 152,
+  243–246; see `references/writing-norms.md`).
+- **Publicistic:** topical subjects, the author's position stated openly,
+  evaluative and metaphorical wording (Kavtaradze et al., pp. 155–157).
+- **Colloquial:** dialogue and informal forms; keep them out of formal text
+  except in quotations.
+- Keep the register of the source when translating: don't turn colloquial
+  speech into official prose, or the reverse.
+
 ## Practical guidance
 
 - Keep literal and best translation as two separate things you could show

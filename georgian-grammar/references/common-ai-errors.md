@@ -263,6 +263,40 @@ of `თურმე` is flattened into a plain, witnessed past.
 `თურმე წასულა` → ✗ "(s)he left" (stated as witnessed fact) →
 ✓ "apparently (s)he has left" / "it turns out (s)he left"
 
+## Production errors when writing Georgian
+
+From Avtandil Arabuli, *ქართული მეტყველების კულტურა* (2nd ed., 2008),
+cited as "A." with pages; more rules in `references/writing-norms.md`.
+
+**Number-agreement error** (high) — the verb's number ignores the norm for
+that kind of subject.
+✗ `ამბები მოხდნენ` → ✓ `ამბები მოხდა` (plural inanimate subject: singular
+verb); ✗ `ორივემ მოისვენეს` → ✓ `ორივემ მოისვენა` (numeral subject:
+singular verb) (A. 163–164)
+
+**Reflexive-possessive error** (high) — `მისი` and `თავისი` swapped, which
+changes whose thing it is.
+`დედამ მისი შვილი წაიყვანა` means someone else's child; for her own child
+→ ✓ `დედამ თავისი შვილი წაიყვანა` (A. 116–117)
+
+**Volition error** (high) — an accidental event rendered with an agentive
+verb, or the reverse.
+"the child broke the glass" (by accident) → ✗ `ბავშვმა ჭიქა გატეხა`
+(presents it as deliberate) → ✓ `ბავშვს ჭიქა გაუტყდა` (A. 247)
+
+**Case-form error** (medium) — ✗ `ჩემ მეგობარს` → ✓ `ჩემს მეგობარს`;
+✗ `დედასთვის` → ✓ `დედისთვის`; ✗ `იგივე წიგნმა` → ✓ `იმავე წიგნმა`;
+✗ `ჩემსკენ` → ✓ `ჩემკენ` (A. 107–108, 118, 121)
+
+**Translationese** (medium) — calqued structures and the overused
+descriptive passive.
+✗ `მშვიდ ტონში განაცხადა` → ✓ `მშვიდი ტონით`; ✗ `დახმარება აღმოუჩინა` →
+✓ `დაეხმარა`; ✗ `განადგურებულ იქნა` → ✓ `გაანადგურეს` (A. 152, 241–246)
+
+**Reported-speech particle error** (medium) — `-თქო` used for words the
+listener already said (those take `-ო`), or the dialectal ✗ `-თქვა`
+(A. 175).
+
 ## Quick index by symptom
 
 - *Sentence has a causative verb* → check agent/executor loss or
@@ -288,3 +322,5 @@ of `თურმე` is flattened into a plain, witnessed past.
   overconfident interpretation
 - *Translating a compressed verb form* → check underexpansion vs.
   overexpansion
+- *Writing or correcting Georgian* → check the production errors above and
+  `references/writing-norms.md`

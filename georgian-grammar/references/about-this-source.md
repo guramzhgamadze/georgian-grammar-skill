@@ -117,6 +117,33 @@ error taxonomy — is otherwise kept as is.
   `აკეთებს`, `შემოდის`, `შედის`, `გაიტეხს`, `მოითქვამს`, `აქცევს`,
   `სიტყვა`, `სტკივა`.
 
+## Additional sources: writing norms and register
+
+`references/writing-norms.md`, the "Production errors" section of
+`references/common-ai-errors.md` and the register notes in
+`references/idioms-and-register.md` are **not** based on BTU's book. Their
+sources are:
+
+- **Avtandil Arabuli (ავთანდილ არაბული)**, *ქართული მეტყველების კულტურა:
+  უმაღლესი სასწავლებლების სტუდენტებისათვის* [Georgian Speech Culture: for
+  university students], 2nd ed., edited by E. Babunashvili (reviewers:
+  T. Uturgaidze, A. Ghomarteli). Tbilisi: Universali, 2008. ISBN
+  99940-32-58-5. The normative rules are restated in this skill's own words
+  with page references; only short forms needed to illustrate a rule are
+  quoted. The book is copyrighted by its author and publisher, is not
+  covered by this skill's CC BY 4.0 licence, and is not included here.
+- **Tinatin Kavtaradze, Natia Kasrashvili, Natia Saghinadze, Salome
+  Pataridze and Tinatin Sabauri**, *აკადემიური მუშაობის საფუძვლები:
+  პრაქტიკული სახელმძღვანელო სტუდენტებისთვის* [Foundations of Academic
+  Work: a practical textbook for students]. Tbilisi: Ilia State
+  University, Academic Writing Centre (Erasmus+ project INTEGRITY), 2018 —
+  chapter 8 (by T. Sabauri), on style, for the register notes.
+- **ქართული ენის ელექტრონული ორთოგრაფიული ლექსიკონი** [Electronic
+  Orthographic Dictionary of Georgian], by Ch. Kiria, V. Imnaishvili,
+  K. Gochitashvili and R. Skhirtladze, Language Modelling Association
+  (ena.ge), used to check that rules from the 2008 textbook are still
+  listed today (marked † in `references/writing-norms.md`).
+
 ## Status: pilot, not peer-reviewed
 
 The source explicitly labels itself a first-stage pilot, not a finished
@@ -158,8 +185,9 @@ rather than treating everything in this skill as equally certain:
   named as likely future additions, not yet part of the current
   codebook).
 - Not covered by the source or this skill: full verb paradigms (forming
-  every screeve), spelling, punctuation, and style. This skill helps
-  check *meaning*; it is not a grammar of forms.
+  every screeve) and a complete spelling dictionary. Spelling,
+  punctuation and style are covered only at the level of the main norms in
+  `references/writing-norms.md` (after Arabuli 2008).
 
 None of this makes the framework unreliable for its actual scope —
 standard written Georgian is exactly where it's strongest — but it's

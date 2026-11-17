@@ -58,6 +58,25 @@ the Explanatory Dictionary of the Georgian Language (ქართული ე�
 and short example sentences taken from those works are credited where they
 appear.
 
+## Writing norms: other copyrighted sources
+
+The file `georgian-grammar/references/writing-norms.md`, the "Production
+errors" section of the error catalog and the register notes are based on:
+
+- **Avtandil Arabuli (ავთანდილ არაბული)**, *ქართული მეტყველების კულტურა:
+  უმაღლესი სასწავლებლების სტუდენტებისათვის* [Georgian Speech Culture: for
+  university students], 2nd ed., ed. E. Babunashvili. Tbilisi: Universali,
+  2008. ISBN 99940-32-58-5.
+- T. Kavtaradze, N. Kasrashvili, N. Saghinadze, S. Pataridze and
+  T. Sabauri, *აკადემიური მუშაობის საფუძვლები* [Foundations of Academic
+  Work]. Tbilisi: Ilia State University, 2018 (chapter 8, on style).
+
+Neither book is included in this repository, and the CC BY 4.0 licence
+granted here does not extend to them; their rights remain with their
+authors and publishers. The skill restates their normative rules in its
+own words, with page references, quoting only the short word forms needed
+to illustrate a rule.
+
 ## How to attribute this adaptation
 
 > "Georgian Grammar skill for Claude" by Guram Zhgamadze, adapted from

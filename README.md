@@ -7,7 +7,8 @@ An agent skill that helps Claude analyze, translate and check Georgian
 shifts with the tense series, verb decomposition (person markers,
 causatives, preverbs, tense/mood/aspect, negation), word order and focus,
 pro-drop, reported speech and idioms — plus a catalog of the mistakes AI
-systems typically make on Georgian, with corrected readings.
+systems typically make on Georgian, with corrected readings, and the main
+normative rules for writing Georgian.
 
 > **Based on BTU's work.** The analytical framework, the semantic-role
 > codebook, the AI error taxonomy and most examples come from *Georgian
@@ -16,6 +17,11 @@ systems typically make on Georgian, with corrected readings.
 > CC BY 4.0. This repository is an independent adaptation with
 > corrections; it is not affiliated with or endorsed by BTU. See
 > [Attribution and license](#attribution-and-license).
+>
+> **The writing norms come from a different source:** the textbook by
+> **Avtandil Arabuli (ავთანდილ არაბული)**, *ქართული მეტყველების კულტურა*
+> [Georgian Speech Culture], 2nd ed., Tbilisi: Universali, 2008. Its rules
+> are restated in this skill's own words with page references.
 
 ## What's inside
 
@@ -25,7 +31,8 @@ systems typically make on Georgian, with corrected readings.
 | `georgian-grammar/references/semantic-roles.md` | The 11-role codebook |
 | `georgian-grammar/references/verb-morphology.md` | Person markers, causatives, preverbs, tense/mood/aspect, negation, evidential perfect |
 | `georgian-grammar/references/sentence-structure.md` | Case patterns by tense series, word order and focus, particles, reported speech, pro-drop |
-| `georgian-grammar/references/idioms-and-register.md` | Idioms and value-laden phrases |
+| `georgian-grammar/references/writing-norms.md` | Normative rules for writing Georgian — agreement, case and verb forms, negation, reported speech, punctuation, calques — after Avtandil Arabuli, *ქართული მეტყველების კულტურა* (2008) |
+| `georgian-grammar/references/idioms-and-register.md` | Idioms, value-laden phrases, and register (functional styles) |
 | `georgian-grammar/references/common-ai-errors.md` | The 33 error types of the source taxonomy plus three added checks |
 | `georgian-grammar/references/about-this-source.md` | Provenance, pilot status, every correction with its evidence, references |
 | `georgian-grammar/references/source-book-index.md` | Section → PDF page → text-line map of the original book |
@@ -67,6 +74,11 @@ or both (details in
    and model answers no longer add content.
 10. Reported-speech particles, the evidential perfect and a section index
     for the book were added.
+11. Normative rules for writing Georgian were added (`writing-norms.md`,
+    production errors in the error catalog, register notes), taken from
+    Avtandil Arabuli's *ქართული მეტყველების კულტურა* (2nd ed., 2008) with
+    page references, and checked where possible against the current
+    electronic orthographic dictionary (ena.ge).
 
 ## Attribution and license
 
@@ -97,6 +109,15 @@ or both (details in
   (2022) and the Explanatory Dictionary of the Georgian Language; full
   references are in
   [`about-this-source.md`](georgian-grammar/references/about-this-source.md).
+- **Writing norms:** Avtandil Arabuli (ავთანდილ არაბული), *ქართული
+  მეტყველების კულტურა: უმაღლესი სასწავლებლების სტუდენტებისათვის*, 2nd
+  ed., ed. E. Babunashvili, Tbilisi: Universali, 2008, ISBN 99940-32-58-5.
+  Register notes also draw on T. Kavtaradze, N. Kasrashvili,
+  N. Saghinadze, S. Pataridze and T. Sabauri, *აკადემიური მუშაობის
+  საფუძვლები*, Ilia State University, 2018. Both books are copyrighted,
+  are not included in this repository, and are not covered by its CC BY
+  licence; the skill restates their rules in its own words with page
+  references.
 
 ## Status
 
