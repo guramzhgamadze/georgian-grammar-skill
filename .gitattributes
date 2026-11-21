@@ -1,0 +1,5 @@
+# Text files are stored and checked out with LF line endings, so packages
+# built from a checkout match the repository byte for byte.
+* text=auto eol=lf
+*.pdf binary
+*.skill binary
