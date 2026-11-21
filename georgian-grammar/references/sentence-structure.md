@@ -105,7 +105,8 @@ Asatiani 2009):
 - narrow focus is *preferably, but not obligatorily*, placed immediately
   before the verb, and question words must stand there: `ნინო სად
   წავიდა?` / `სად წავიდა ნინო?` "Where did Nino go?" — but not `*ნინო
-  წავიდა სად?`
+  წავიდა სად?`, except as an echo question about a place already
+  mentioned that the listener didn't catch
 - the position in front of the focus tends to hold the **topic** — so a
   fronted element is more often what the sentence is *about* than what it
   emphasizes

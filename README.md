@@ -33,7 +33,7 @@ normative rules for writing Georgian.
 | `georgian-grammar/references/sentence-structure.md` | Case patterns by tense series, word order and focus, particles, reported speech, pro-drop |
 | `georgian-grammar/references/writing-norms.md` | Normative rules for writing Georgian — agreement, case and verb forms, negation, reported speech, punctuation, calques — after Avtandil Arabuli, *ქართული მეტყველების კულტურა* (2008) |
 | `georgian-grammar/references/idioms-and-register.md` | Idioms, value-laden phrases, and register (functional styles) |
-| `georgian-grammar/references/common-ai-errors.md` | The 33 error types of the source taxonomy plus three added checks |
+| `georgian-grammar/references/common-ai-errors.md` | The 33 error types of the source taxonomy, three added checks, and six production errors in written Georgian (after Arabuli) |
 | `georgian-grammar/references/about-this-source.md` | Provenance, pilot status, every correction with its evidence, references |
 | `georgian-grammar/references/source-book-index.md` | Section → PDF page → text-line map of the original book |
 | `georgian-grammar/references/source-book.pdf`, `source-book-fulltext.txt` | BTU's original publication (unmodified) and its text extraction |
@@ -79,6 +79,9 @@ or both (details in
     Avtandil Arabuli's *ქართული მეტყველების კულტურა* (2nd ed., 2008) with
     page references, and checked where possible against the current
     electronic orthographic dictionary (ena.ge).
+12. The recommendation example's model answer keeps the verb's case
+    government: `რეკომენდებულია, მიმართოთ ექიმს` (`მიმართავს` takes a
+    dative), not `ექიმთან მიმართვა`.
 
 ## Attribution and license
 

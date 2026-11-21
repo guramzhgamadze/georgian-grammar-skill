@@ -37,8 +37,10 @@ file says so.
 - A subject that is a **numeral or a quantifier** in the singular — or is
   modified by one — takes a singular verb: `ორივემ მოისვენა` (✗
   `ორივემ მოისვენეს`), `ზოგმა დატოვა`, `ცხრა ძმამ გაიყო`, `ზოგი ფრინველი
-  მიფრინავს`, `უამრავი ხალხი ირეოდა`. The noun after a numeral is
-  singular too (`ცხრა ძმა`). A plural form such as `ყველანი` takes a plural
+  მიფრინავს`, `უამრავი ხალხი ირეოდა`. The noun after a numeral or
+  quantifier is singular too: `ცხრა ძმა`, `ყველა მსურველი`; only when the
+  modifier itself takes the old `-ნ` plural do both stand in the plural
+  (`ორნი ძმანი`) (A. 126). A plural form such as `ყველანი` takes a plural
   verb: `ყველანი გაემართნენ`.
 - A paired compound in the singular takes a singular verb: `ცოლ-ქმარი
   საუბრობდა`; two coordinated nouns take a plural verb: `და და ძმა
@@ -58,13 +60,18 @@ file says so.
 - Some verbs change stem for a plural (or collective) subject or object;
   use the plural stem then: `ხალხი დასხა`, `ფეტვი დაყარა` (A. 149–150).
 
-## 2. Noun phrases: modifiers, possessives, pronouns (A. 116–125)
+## 2. Noun phrases: modifiers, possessives, pronouns (A. 116–126)
 
 - A **preposed adjective** with a consonant stem declines partially:
   `დიდი მინდორი`, `დიდმა მინდორმა`, `დიდ მინდორს`, `დიდი მინდვრის`,
   `დიდი მინდვრით`, `დიდ მინდვრად`, `დიდო მინდორო`. A vowel-stem adjective
-  does not change: `პატარა ბურთმა`, `პატარა ბურთს`. A preposed modifier
-  never takes the plural: `ხმელი ხეები` (✗ `ხმელები ხეები`).
+  does not change: `პატარა ბურთმა`, `პატარა ბურთს`.
+- **Number:** in modern Georgian a preposed modifier does not agree with a
+  plural noun: `ხმელი ხეები` (✗ `ხმელები ხეები`). With the old `-ნ`/`-თ`
+  plural it may be plural too (Vazha-Pshavela's `ცივნი ნამცვრევნი`). A
+  postposed modifier takes the noun's plural marker: `მთანი მაღალნი`; with
+  the `-ებ-` plural that order belongs to poetry (`თვალები შხამიანები`)
+  (A. 125–126).
 - **Possessive pronouns** `ჩემი`, `შენი`, `ჩვენი`, `თქვენი`, `მათი` keep
   the `-ს` in the dative and adverbial: `ჩემს მეგობარს` (✗ `ჩემ
   მეგობარს`), `ჩვენს ძმას`, `მათს ეზოს`, `ჩემს მეგობრად`.

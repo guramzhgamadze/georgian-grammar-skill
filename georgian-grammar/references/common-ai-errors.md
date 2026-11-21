@@ -147,8 +147,8 @@ certainty
 **Recommendation-to-obligation error** (high) — advice gets turned into a
 requirement.
 `ჯობს, ექიმს მიმართოთ` → ✗ "ვალდებული ხართ, ექიმს მიმართოთ" (you're
-obligated to see a doctor) → ✓ "რეკომენდებულია ექიმთან მიმართვა" (seeing
-a doctor is recommended)
+obligated to see a doctor) → ✓ "რეკომენდებულია, მიმართოთ ექიმს" (it is
+recommended that you see a doctor)
 
 ## Context and coreference errors
 

@@ -70,6 +70,7 @@ error taxonomy — is otherwise kept as is.
 | 8 | Fronting a word = focusing it; `წერილი ბავშვმა დაწერა` read as possible object focus; marked-order example translated with a focus cleft | Narrow focus is preferably (not obligatorily) immediately preverbal, with a topic position before it, and prosody outweighs order — so the fronted object is most likely the topic and `ბავშვმა` sits in the focus slot | Skopeteas, Féry & Asatiani 2009 |
 | 9 | Several "correct outputs" add or alter content: dropped subjects/objects rendered as "someone/something" (`ვიღაცამ ჩვენ რაღაც შემოგვთავაზა`); `ალბათ მოვა` "corrected" with an added "but this isn't confirmed"; stilted paraphrases such as `ბავშვს გააკეთებინა, რომ წერილი დაეწერა` | Dropped arguments rendered with the pronoun the person marking points to ("(s)he offered it to us"); hedges kept without adding certainty or doubt; causative readings given in English where the natural Georgian *is* the causative form | Person markers: Hewitt 2008; the source's own overexpansion rule |
 | 10 | No coverage of reported-speech particles or of the evidential perfect | Added: `-მეთქი` / `-ო` / `-თქო`; the perfect's not-witnessed sense and `თურმე` | Rostovtsev-Popiel 2017; Zekalashvili 2022; Boeder 2000; Topadze 2007; Harris 1981:125 |
+| 11 | Recommendation-to-obligation example: ✓ `რეკომენდებულია ექიმთან მიმართვა` as the faithful paraphrase of `ჯობს, ექიმს მიმართოთ` | `რეკომენდებულია, მიმართოთ ექიმს` — in the sense "turn to someone for help or advice", `მიმართავს` takes a dative addressee (`ექიმს`); the dictionary gives no `-თან` construction for `მიმართვა` | Explanatory Dictionary, s.v. `მიმართავს` (sense 4: `მიმართა პოლიციას`) and `მიმართვა` |
 
 ## References used for the corrections
 
@@ -115,7 +116,7 @@ error taxonomy — is otherwise kept as is.
   Chikobava Institute of Linguistics and the Language Modelling
   Association (ena.ge). Entries consulted: `თვის`, `წყვეტს`, `წყვეტა`,
   `აკეთებს`, `შემოდის`, `შედის`, `გაიტეხს`, `მოითქვამს`, `აქცევს`,
-  `სიტყვა`, `სტკივა`.
+  `სიტყვა`, `სტკივა`, `მიმართავს`, `მიმართვა`.
 
 ## Additional sources: writing norms and register
 
@@ -127,7 +128,7 @@ sources are:
 - **Avtandil Arabuli (ავთანდილ არაბული)**, *ქართული მეტყველების კულტურა:
   უმაღლესი სასწავლებლების სტუდენტებისათვის* [Georgian Speech Culture: for
   university students], 2nd ed., edited by E. Babunashvili (reviewers:
-  T. Uturgaidze, A. Ghomarteli). Tbilisi: Universali, 2008. ISBN
+  T. Uturgaidze, A. Gomarteli). Tbilisi: Universali, 2008. ISBN
   99940-32-58-5. The normative rules are restated in this skill's own words
   with page references; only short forms needed to illustrate a rule are
   quoted. The book is copyrighted by its author and publisher, is not
